@@ -1,7 +1,6 @@
 program main
   implicit none
   integer, parameter :: N = 30  
-!   real(8), parameter :: beta = 1.0d0
   real(8), dimension(3) :: betaarray
   real(8) :: beta
   real(8) :: h, t ,p
